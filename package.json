@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-payfast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leticia Monteiro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^2.20.8",
+    "mysql": "^2.17.1",
+    "restify": "^8.3.3"
+  }
+}
